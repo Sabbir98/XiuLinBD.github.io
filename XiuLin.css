@@ -1,0 +1,60 @@
+body
+{
+	background-color: lightskyblue;
+	width: 100%;
+
+}
+body > h1
+{
+	text-align: center;
+}
+#Care  { 
+	background-color: violet;
+	text-align: center;
+	 color:black;
+	font-size:18px;
+}
+
+body img {
+	width: 500 px;
+	height: auto;
+
+}
+#nav {
+	height: 50 px;
+	background-color: mediumvioletred;
+	width: 100%;
+	text-decoration-color: white;
+}
+nav ul { 
+	list-style: none;
+	padding left: 0;
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+
+}
+
+nav ul li {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-top:10px;
+}
+nav li:hover{
+	background-color: pink;
+}
+
+#intro {
+	text-align: center;
+	display: flex;
+	margin right:20px;
+	width:70%;
+	margin:0 20px ;
+} 
+
+header{
+	text-decoration-color: yellowgreen;
+
+
+}
